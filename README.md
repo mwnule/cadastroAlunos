@@ -1,2 +1,3 @@
 # cadastroAlunos
-sistema de cadastro de alunos
+
+Sistema básico de castro de alunos. Ainda em progresso.
